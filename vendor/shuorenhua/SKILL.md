@@ -1,9 +1,9 @@
 <!-- vendor：上游 MrGeDiao/shuorenhua（MIT），同步于 2026-11-02。
-     改动仅限 frontmatter 的 description 前缀（关闭独立触发，避免与《mindspeaker》抢触发词）。
+     改动仅限 frontmatter 的 description 前缀（关闭独立触发，避免与《MindSpeaker-Skill》抢触发词）。
      正文一字未改。上游许可证见同目录 LICENSE。 -->
 ---
 name: shuorenhua
-description: [vendor·供 mindspeaker 调用，不独立触发] 按用户要求审稿或去 AI 味，支持中英文；保留事实、术语与责任主体，支持只标问题。
+description: [vendor·供 MindSpeaker-Skill 调用，不独立触发] 按用户要求审稿或去 AI 味，支持中英文；保留事实、术语与责任主体，支持只标问题。
 ---
 
 # 说人话

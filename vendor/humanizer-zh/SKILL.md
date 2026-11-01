@@ -1,9 +1,9 @@
 <!-- vendor：上游 op7418/Humanizer-zh（MIT），同步于 2026-11-02。
-     改动仅限 frontmatter 的 description 前缀（关闭独立触发，避免与《mindspeaker》抢触发词）。
+     改动仅限 frontmatter 的 description 前缀（关闭独立触发，避免与《MindSpeaker-Skill》抢触发词）。
      正文一字未改。上游许可证见同目录 LICENSE。 -->
 ---
 name: humanizer-zh
-description: [vendor·供 mindspeaker 调用，不独立触发] 编辑中文文章、评论和文档中的空话、重复及模板化表达，让文字更自然，同时保留事实、确定程度和作者声音。适用于润色已有文本，不用于判断作者身份或保证通过 AI 检测器。
+description: [vendor·供 MindSpeaker-Skill 调用，不独立触发] 编辑中文文章、评论和文档中的空话、重复及模板化表达，让文字更自然，同时保留事实、确定程度和作者声音。适用于润色已有文本，不用于判断作者身份或保证通过 AI 检测器。
 allowed-tools:
   - Read
   - Write
