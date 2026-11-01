@@ -1,10 +1,10 @@
 <!-- vendor：上游 LifelongLazyLearner/qu-ai-wei（MIT），同步于 2026-11-02。
-     改动仅限 frontmatter 的 description 前缀（关闭独立触发，避免与《写作去AI味》抢触发词）。
+     改动仅限 frontmatter 的 description 前缀（关闭独立触发，避免与《mindspeaker》抢触发词）。
      正文一字未改。上游许可证见同目录 LICENSE。 -->
 ---
 name: qu-ai-wei
 description: |
-  [vendor·供 写作去AI味 调用，不独立触发] Rewrite and humanize Simplified Chinese while preserving facts, meaning, evidence strength, register, and authorial voice. 用于 `/qu-ai-wei`、「去 AI 味」「改得说人话」「humanize 中文」「改自然点」「改写 / 重写这段中文」「润色得自然些」「太生硬了」等请求，包括段落、文章与长文的结构重写。不要用于翻译、新写中文、只查错别字、繁體中文，或未经授权替真人更换声口。
+  [vendor·供 mindspeaker 调用，不独立触发] Rewrite and humanize Simplified Chinese while preserving facts, meaning, evidence strength, register, and authorial voice. 用于 `/qu-ai-wei`、「去 AI 味」「改得说人话」「humanize 中文」「改自然点」「改写 / 重写这段中文」「润色得自然些」「太生硬了」等请求，包括段落、文章与长文的结构重写。不要用于翻译、新写中文、只查错别字、繁體中文，或未经授权替真人更换声口。
 ---
 
 # 去 AI 味（qu-ai-wei）
